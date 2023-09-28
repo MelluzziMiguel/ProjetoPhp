@@ -1,1 +1,2 @@
-# ProjetoPhp
+# projectPHP
+Repositório de Estudo
